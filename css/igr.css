@@ -334,3 +334,12 @@ tbody tr:nth-child(even) {
 table {
     background-color: #ff33cc;
 }
+
+
+/*responsive*/
+
+@media screen and (max-width:550px) {
+
+
+
+}
